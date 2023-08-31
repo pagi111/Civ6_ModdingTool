@@ -1,0 +1,27 @@
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\bin\Debug\Civ6ModdingTool.exe.config
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\bin\Debug\Civ6ModdingTool.exe
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\bin\Debug\Civ6ModdingTool.pdb
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\obj\Debug\Civ6ModdingTool.csproj.AssemblyReference.cache
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\obj\Debug\Civ6ModdingTool.Form1.resources
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\obj\Debug\Civ6ModdingTool.Properties.Resources.resources
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\obj\Debug\Civ6ModdingTool.csproj.GenerateResource.cache
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\obj\Debug\Civ6ModdingTool.csproj.CoreCompileInputs.cache
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\obj\Debug\Civ6ModdingTool.exe
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\obj\Debug\Civ6ModdingTool.pdb
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\obj\Debug\Civ6ModdingTool.csproj.CopyComplete
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\bin\Debug\AlphaBlendTextBox.dll
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\bin\Debug\Resources\Fonts\Myriad Pro Semibold.ttf
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\bin\Debug\Resources\Fonts\Elan ITC Std Book.otf
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\bin\Debug\Resources\Fonts\Minion Pro Medium.ttf
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\bin\Debug\Resources\Fonts\Minion Pro Semibold.ttf
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\bin\Debug\Resources\Fonts\Myriad Pro Regular.ttf
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\bin\Debug\Resources\Icons\cross_18x18.png
+C:\GRY\Visual Studio 2022 Projects\Civ6ModdingTool\bin\Debug\Resources\Icons\tick_18x18.png
